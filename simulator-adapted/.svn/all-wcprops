@@ -1,0 +1,557 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/rmi1112-g6/!svn/ver/14/projeto3/simulator
+END
+cbsimulatorGUI.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/rmi1112-g6/!svn/ver/15/projeto3/simulator/cbsimulatorGUI.cpp
+END
+simulator.dsw
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/rmi1112-g6/!svn/ver/14/projeto3/simulator/simulator.dsw
+END
+cbreceptionhandler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/rmi1112-g6/!svn/ver/14/projeto3/simulator/cbreceptionhandler.cpp
+END
+cbmanagerobots.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/rmi1112-g6/!svn/ver/14/projeto3/simulator/cbmanagerobots.h
+END
+cbrobotaction.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/rmi1112-g6/!svn/ver/14/projeto3/simulator/cbrobotaction.h
+END
+param0.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/rmi1112-g6/!svn/ver/14/projeto3/simulator/param0.xml
+END
+cbpoint.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/rmi1112-g6/!svn/ver/14/projeto3/simulator/cbpoint.cpp
+END
+cbrobot.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/rmi1112-g6/!svn/ver/14/projeto3/simulator/cbrobot.h
+END
+param4.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/rmi1112-g6/!svn/ver/14/projeto3/simulator/param4.xml
+END
+cbcontrolpanel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/rmi1112-g6/!svn/ver/14/projeto3/simulator/cbcontrolpanel.cpp
+END
+cblabhandler.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/rmi1112-g6/!svn/ver/14/projeto3/simulator/cblabhandler.h
+END
+cbposition.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/rmi1112-g6/!svn/ver/14/projeto3/simulator/cbposition.cpp
+END
+cbwall.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/rmi1112-g6/!svn/ver/14/projeto3/simulator/cbwall.h
+END
+cbutils.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/rmi1112-g6/!svn/ver/14/projeto3/simulator/cbutils.h
+END
+object_script.simulator.Debug
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/rmi1112-g6/!svn/ver/14/projeto3/simulator/object_script.simulator.Debug
+END
+cbparameters.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/rmi1112-g6/!svn/ver/14/projeto3/simulator/cbparameters.h
+END
+cbviewhandler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/rmi1112-g6/!svn/ver/14/projeto3/simulator/cbviewhandler.cpp
+END
+cbsensor.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/rmi1112-g6/!svn/ver/14/projeto3/simulator/cbsensor.h
+END
+cbview.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/rmi1112-g6/!svn/ver/14/projeto3/simulator/cbview.h
+END
+cbsimulator.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/rmi1112-g6/!svn/ver/14/projeto3/simulator/cbsimulator.cpp
+END
+cbtarget.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/rmi1112-g6/!svn/ver/14/projeto3/simulator/cbtarget.h
+END
+cblabhandler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/rmi1112-g6/!svn/ver/14/projeto3/simulator/cblabhandler.cpp
+END
+cbpoint.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/rmi1112-g6/!svn/ver/14/projeto3/simulator/cbpoint.h
+END
+cbutils.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/rmi1112-g6/!svn/ver/14/projeto3/simulator/cbutils.cpp
+END
+cbrobotinfo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/rmi1112-g6/!svn/ver/14/projeto3/simulator/cbrobotinfo.cpp
+END
+cblab.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/rmi1112-g6/!svn/ver/14/projeto3/simulator/cblab.h
+END
+simulator.pro.user
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/rmi1112-g6/!svn/ver/14/projeto3/simulator/simulator.pro.user
+END
+Makefile.Release
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/rmi1112-g6/!svn/ver/14/projeto3/simulator/Makefile.Release
+END
+cbview.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/rmi1112-g6/!svn/ver/14/projeto3/simulator/cbview.cpp
+END
+Makefile.Debug
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/rmi1112-g6/!svn/ver/14/projeto3/simulator/Makefile.Debug
+END
+portinglog.txt
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/rmi1112-g6/!svn/ver/14/projeto3/simulator/portinglog.txt
+END
+cbreceptionist.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/rmi1112-g6/!svn/ver/14/projeto3/simulator/cbreceptionist.h
+END
+cbsimulatorGUI.ui
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/rmi1112-g6/!svn/ver/15/projeto3/simulator/cbsimulatorGUI.ui
+END
+cbreceptionform.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/rmi1112-g6/!svn/ver/14/projeto3/simulator/cbreceptionform.h
+END
+cbgridhandler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/rmi1112-g6/!svn/ver/14/projeto3/simulator/cbgridhandler.cpp
+END
+cbclient.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/rmi1112-g6/!svn/ver/14/projeto3/simulator/cbclient.h
+END
+cbsimulator.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/rmi1112-g6/!svn/ver/14/projeto3/simulator/cbsimulator.h
+END
+cbgrid.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/rmi1112-g6/!svn/ver/14/projeto3/simulator/cbgrid.cpp
+END
+cbtarget.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/rmi1112-g6/!svn/ver/14/projeto3/simulator/cbtarget.cpp
+END
+cbbeacon.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/rmi1112-g6/!svn/ver/14/projeto3/simulator/cbbeacon.cpp
+END
+cbcontrolpanel.ui
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/rmi1112-g6/!svn/ver/14/projeto3/simulator/cbcontrolpanel.ui
+END
+cbrobotinfo.ui
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/rmi1112-g6/!svn/ver/14/projeto3/simulator/cbrobotinfo.ui
+END
+cbrobotbeacon.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/rmi1112-g6/!svn/ver/14/projeto3/simulator/cbrobotbeacon.cpp
+END
+cblab.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/rmi1112-g6/!svn/ver/14/projeto3/simulator/cblab.cpp
+END
+cbpanel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/rmi1112-g6/!svn/ver/14/projeto3/simulator/cbpanel.cpp
+END
+cbgraph.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/rmi1112-g6/!svn/ver/14/projeto3/simulator/cbgraph.cpp
+END
+object_script.simulator.Release
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/rmi1112-g6/!svn/ver/14/projeto3/simulator/object_script.simulator.Release
+END
+cbparamhandler.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/rmi1112-g6/!svn/ver/14/projeto3/simulator/cbparamhandler.h
+END
+cbmotor.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/rmi1112-g6/!svn/ver/14/projeto3/simulator/cbmotor.h
+END
+cbrobotinfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/rmi1112-g6/!svn/ver/14/projeto3/simulator/cbrobotinfo.h
+END
+cbparamdialogbase.ui
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/rmi1112-g6/!svn/ver/14/projeto3/simulator/cbparamdialogbase.ui
+END
+cbreceptionist.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/rmi1112-g6/!svn/ver/14/projeto3/simulator/cbreceptionist.cpp
+END
+simulator.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/rmi1112-g6/!svn/ver/15/projeto3/simulator/simulator.cpp
+END
+cbactionhandler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/rmi1112-g6/!svn/ver/14/projeto3/simulator/cbactionhandler.cpp
+END
+param20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/rmi1112-g6/!svn/ver/14/projeto3/simulator/param20.xml
+END
+cbbutton.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/rmi1112-g6/!svn/ver/14/projeto3/simulator/cbbutton.cpp
+END
+cbclient.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/rmi1112-g6/!svn/ver/14/projeto3/simulator/cbclient.cpp
+END
+cbmanagerobots.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/rmi1112-g6/!svn/ver/14/projeto3/simulator/cbmanagerobots.cpp
+END
+default.qrc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/rmi1112-g6/!svn/ver/14/projeto3/simulator/default.qrc
+END
+cbrobotaction.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/rmi1112-g6/!svn/ver/14/projeto3/simulator/cbrobotaction.cpp
+END
+cblabdialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/rmi1112-g6/!svn/ver/14/projeto3/simulator/cblabdialog.h
+END
+cbrobot.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/rmi1112-g6/!svn/ver/14/projeto3/simulator/cbrobot.cpp
+END
+cbparamdialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/rmi1112-g6/!svn/ver/14/projeto3/simulator/cbparamdialog.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/rmi1112-g6/!svn/ver/15/projeto3/simulator/Makefile
+END
+cbgridhandler.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/rmi1112-g6/!svn/ver/14/projeto3/simulator/cbgridhandler.h
+END
+simulator.pro
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/rmi1112-g6/!svn/ver/14/projeto3/simulator/simulator.pro
+END
+cbsimulatorGUI.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/rmi1112-g6/!svn/ver/14/projeto3/simulator/cbsimulatorGUI.h
+END
+cbgrid.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/rmi1112-g6/!svn/ver/14/projeto3/simulator/cbgrid.h
+END
+cbreceptionhandler.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/rmi1112-g6/!svn/ver/14/projeto3/simulator/cbreceptionhandler.h
+END
+cbbeacon.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/rmi1112-g6/!svn/ver/14/projeto3/simulator/cbbeacon.h
+END
+aaaa.xml
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/rmi1112-g6/!svn/ver/14/projeto3/simulator/aaaa.xml
+END
+cbparamhandler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/rmi1112-g6/!svn/ver/14/projeto3/simulator/cbparamhandler.cpp
+END
+Makefile_static
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/rmi1112-g6/!svn/ver/14/projeto3/simulator/Makefile_static
+END
+cbwall.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/rmi1112-g6/!svn/ver/14/projeto3/simulator/cbwall.cpp
+END
+cbmotor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/rmi1112-g6/!svn/ver/14/projeto3/simulator/cbmotor.cpp
+END
+cbrobotbeacon.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/rmi1112-g6/!svn/ver/14/projeto3/simulator/cbrobotbeacon.h
+END
+cbparameters.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/rmi1112-g6/!svn/ver/14/projeto3/simulator/cbparameters.cpp
+END
+cbpanel.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/rmi1112-g6/!svn/ver/14/projeto3/simulator/cbpanel.h
+END
+cbcontrolpanel.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/rmi1112-g6/!svn/ver/14/projeto3/simulator/cbcontrolpanel.h
+END
+netif.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/rmi1112-g6/!svn/ver/14/projeto3/simulator/netif.h
+END
+cbgraph.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/rmi1112-g6/!svn/ver/14/projeto3/simulator/cbgraph.h
+END
+cbsensor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/rmi1112-g6/!svn/ver/14/projeto3/simulator/cbsensor.cpp
+END
+cbposition.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/rmi1112-g6/!svn/ver/14/projeto3/simulator/cbposition.h
+END
+cblabdialog.ui
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/rmi1112-g6/!svn/ver/14/projeto3/simulator/cblabdialog.ui
+END
+cbmanagerobots.ui
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/rmi1112-g6/!svn/ver/14/projeto3/simulator/cbmanagerobots.ui
+END
+cbviewhandler.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/rmi1112-g6/!svn/ver/14/projeto3/simulator/cbviewhandler.h
+END
+cblabdialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/rmi1112-g6/!svn/ver/14/projeto3/simulator/cblabdialog.cpp
+END
+cbviewcommand.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/rmi1112-g6/!svn/ver/14/projeto3/simulator/cbviewcommand.h
+END
+simulator.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/rmi1112-g6/!svn/ver/14/projeto3/simulator/simulator.dsp
+END
+cbbutton.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/rmi1112-g6/!svn/ver/14/projeto3/simulator/cbbutton.h
+END
+cbparamdialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/rmi1112-g6/!svn/ver/14/projeto3/simulator/cbparamdialog.cpp
+END
+cbactionhandler.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/rmi1112-g6/!svn/ver/14/projeto3/simulator/cbactionhandler.h
+END

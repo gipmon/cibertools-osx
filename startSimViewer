@@ -1,0 +1,10 @@
+#/bin/bash
+
+(cd simulator-cibertools-v2.1; ./simulator)&
+
+sleep 1
+
+(cd Viewer; ./Viewer)
+
+killall simulator
+

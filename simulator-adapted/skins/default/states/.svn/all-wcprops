@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/rmi1112-g6/!svn/ver/14/projeto3/simulator/skins/default/states
+END
+returning.png
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/rmi1112-g6/!svn/ver/14/projeto3/simulator/skins/default/states/returning.png
+END
+stopped.png
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/rmi1112-g6/!svn/ver/14/projeto3/simulator/skins/default/states/stopped.png
+END
+running.png
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/rmi1112-g6/!svn/ver/14/projeto3/simulator/skins/default/states/running.png
+END
+removed.png
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/rmi1112-g6/!svn/ver/14/projeto3/simulator/skins/default/states/removed.png
+END
+waiting.png
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/rmi1112-g6/!svn/ver/14/projeto3/simulator/skins/default/states/waiting.png
+END
+finished.png
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/rmi1112-g6/!svn/ver/14/projeto3/simulator/skins/default/states/finished.png
+END

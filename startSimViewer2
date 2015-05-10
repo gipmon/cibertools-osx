@@ -1,0 +1,19 @@
+#/bin/bash
+
+(cd simulator-adapted; ./simulator -log testlog.txt -param myparams0.xml)&
+
+sleep 1
+
+python myrob.py &
+
+sleep 3
+
+(cd Viewer; ./Viewer -autoconnect -autostart) &
+
+sleep 120
+
+killall simulator
+killall python
+killall Viewer
+
+grep -A 3 "LogInfo Time=\"1800\"" simulator/testlog.txt | grep Scores

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/rmi1112-g6/!svn/ver/14/projeto3/simulator/sounds
+END
+begin.wav
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/rmi1112-g6/!svn/ver/14/projeto3/simulator/sounds/begin.wav
+END
+first.wav
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/rmi1112-g6/!svn/ver/14/projeto3/simulator/sounds/first.wav
+END
+finished.wav
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/rmi1112-g6/!svn/ver/14/projeto3/simulator/sounds/finished.wav
+END
+collision.wav
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/rmi1112-g6/!svn/ver/14/projeto3/simulator/sounds/collision.wav
+END

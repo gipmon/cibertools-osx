@@ -1,0 +1,6 @@
+#/bin/bash
+
+(cd simulator-adapted; ./simulator -log testlog.txt -param myparams0.xml)&
+
+(cd Viewer; ./Viewer -autoconnect -autostart) &
+
